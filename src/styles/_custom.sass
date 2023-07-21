@@ -1,19 +1,308 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 6s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 13%
+    left: -2%
+    width: 18%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: vanish 4s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    bottom: 3%
+    right: 40%
+    width: 14%
+  &-3
+    animation: float1 6s ease-in-out infinite alternate
+    position: absolute
+    top: 54%
+    right: 2%
+    width: 17%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(30px)
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+  
+@keyframes vanish
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+  
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG01, .BGIMG02
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGM01, .BGM02, .BGM06
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BGM01
+  background: linear-gradient(to bottom, #EFFAF0, #EFFAF0, #FFF)
+
+.BG02, .BGM02, .BGT02
+  background-color: #EFFAF0
+
+.BGR03
+  background-color: #ACDDEE
+
+.arrow-down.BGR04
+  background-color: #92DF98
+
+.BGR05
+  background-color: #DBECDD
+
+.BGM06
+  background-color: #EAF3EB
+
+.BGT07, .arrow-right.BG07
+  background-color: #F3F9FF
+  
+.arrow-right.BG07
+  &::after
+    border-right: 35px solid #F3F9FF
+    border-top: 35px solid #F3F9FF
+    border-left: 35px solid transparent
+    border-bottom: 35px solid transparent
+
+.BGR08
+  background-color: #F0F0F0
+
+.BGR08.acordion__activo
+  background-color: #F6FFF7
+
+.arrow-right.BG09
+  background-color: #DEF3DF
+  &::after
+    border-right: 35px solid #DEF3DF
+    border-top: 35px solid #DEF3DF
+    border-left: 35px solid transparent
+    border-bottom: 35px solid transparent
+
+.arrow-right.BG10
+  background-color: #BBD2F0
+  &::after
+    border-right: 35px solid #BBD2F0
+    border-top: 35px solid #BBD2F0
+    border-left: 35px solid transparent
+    border-bottom: 35px solid transparent
+  
+.BGR11, .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #D5F2FC
+
+.BGR12
+  background-color: #E5E9EA
+  
+.BGR13
+  background-color: #DEF2F9
+
+.bloque-texto-a.color-primario
+  background-color: #EDF7FA
+
+.acordion__accion__btn--a, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+  background-color: #3F7FD5
+
+.BGT02, .BGR04, .BGT07
+  border-radius: 30px
+
+.BGIMG01, .BGR03, .BGR05, .BGR08, .BGR11, .BGR12, .BGR13
+  border-radius: 10px
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 5px 5px 0 0
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 5px 5px
+
+.slyder-f__btn i
+  color: #1969D5
+
+.acordion__accion__btn--a i, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+  color: $white
+
+.img-01
+  position: absolute
+  left: 100px
+  @media (max-width: $bp-max-lg)
+    left: 50px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+
+.img-02
+  position: absolute
+  left: 14%
+  @media (max-width: $bp-max-xl)
+    left: 10%
+  @media (max-width: $bp-max-lg)
+    left: 9%
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+  
+.img-03
+  position: absolute
+  left: 13%
+  @media (max-width: $bp-max-lg)
+    left: 13%
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+  
+.img-04
+  position: absolute
+  left: 46%
+  @media (max-width: $bp-max-lg)
+    left: 52%
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+
+.img-inv .bloque-texto-g__img
+  left: 55%
+  width: 45%
+  @media (max-width: $bp-max-md)
+    left: 0
+    width: 100%
+
+.img-inv .bloque-texto-g__texto
+  right: 40%
+  width: 60%
+  @media (max-width: $bp-max-md)
+    right: 0
+    width: 100%
+  
+.hg-01
+  height: 242px
+  @media (max-width: $bp-max-xl)
+    height: 222px
+  @media (max-width: $bp-max-lg)
+    height: 252px
+  @media (max-width: $bp-max-md)
+    height: 258px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  
+.arrow-down
+  float: left
+  position: relative
+  &::after
+    position: absolute
+    width: 0
+    height: 0
+    right: 2%
+    border-right: 30px solid #92DF98
+    border-top: 30px solid #92DF98
+    border-left: 30px solid transparent
+    border-bottom: 30px solid transparent
+    content: ''
+  
+.arrow-right
+  float: left
+  position: relative
+  &::after
+    content: ''
+    display: block
+    position: absolute
+    top: 50%
+    right: -4.5%
+    width: 65px
+    height: 65px
+    transform: translate(5px, -50%) rotate(45deg)
+    @media (max-width: $bp-max-xl)
+      right: -5.0%
+    @media (max-width: $bp-max-lg)
+      right: -5.5%
+    @media (max-width: $bp-max-md)
+      right: -4.5%
+  
+.zindex-1
+  z-index: 1
+
+.zindex-2
+  z-index: 2
+
+.tabla-b td, .tabla-c td, .tabla-b th, .tabla-c th
+  padding: 10px 20px
+
+.lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li
+  display: flex
+
+.slyder-a__bullets__item--active
+  background-color: #91A0A5 !important
+
+.slyder-a__bullets__item
+  background-color: #CED4D6
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #3F7FD5
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-image: url("../assets/componentes/arrow-white.svg")
+
+.slyder-a__btn--sigt
+  transform: rotate(270deg) !important
+
+.slyder-a__btn--atrs
+  transform: rotate(90deg) !important
+
+.img-infografica__item
+  width: 5%
+
+.tarjeta--boton
+  &:hover
+    transform: scale(1.08)
+
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 15%
+    left: 15%
+    transform: translate(-15%,-15%)
+    width: 95px
+    height: 95px
+    background-color: #59BEE2
+    border-radius: 999px
+    @media (max-width: $bp-max-lg)
+      width: 105px
+      height: 105px
+    @media (max-width: $bp-max-xs)
+      width: 85px
+      height: 85px
+    
+.tarjeta--boton.color-primario:hover
+  .bottomCircle
+    &::before
+      background-color: #288640
