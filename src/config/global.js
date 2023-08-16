@@ -168,9 +168,9 @@ export default {
   },
   complementario: [
     {
-      tema: '1. Estrategias de Entornos saludables',
+      tema: '1. Estrategias de entornos saludables',
       referencia:
-        'Ramírez, M. (2020). Declaración de Adelaida sobre la Salud en Todas las Políticas. [Video] YouTube.',
+        'Ramírez, M. (2020). Declaración de Adelaida 1988. [Video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=iHu9kQz3vYc',
     },
@@ -178,7 +178,7 @@ export default {
       tema: '2. Gestión territorial y local',
       referencia:
         'MinSalud. (2006). Lineamientos nacionales para la aplicación y el desarrollo de las estrategias de entornos saludables.',
-      tipo: 'Pdf',
+      tipo: 'PDF',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-nacionales-para-la-aplicacion-y-el-desarrollo-de-las-ees.pdf',
     },
@@ -190,23 +190,24 @@ export default {
         'el entorno o ambiente es el espacio físico, social y cultural, en donde un individuo, su familia y su comunidad moran cotidianamente (vivienda, escuela, lugar de trabajo, vecindario, vereda, municipio, ciudad) y donde forma relaciones sociales que determinan una manera de vivir y de ser.',
     },
     {
-      termino: 'Entorno Comunitario',
+      termino: 'Entorno comunitario',
       significado:
         'se ubican las políticas sociales actuales como: la política social del gobierno nacional, que está enfocada en la reducción de la pobreza y la promoción de la equidad y primera infancia.',
     },
     {
-      termino: 'Entorno Hogar',
+      termino: 'Entorno hogar',
       significado:
         'el hogar, en un sentido amplio, es el escenario de acogida y afecto en el que transcurre parte de la vida de los seres humanos, fundamental desde la perspectiva de familia, el hogar familiar, para el inicio de la vida y de la primera infancia.',
     },
     {
-      termino: 'Entorno Laboral',
+      termino: 'Entorno laboral',
       significado:
         'en este entorno existe la política pública de salud y seguridad en el trabajo entendiendo la salud laboral como la reducción y/o eliminación de los factores de riesgo dentro del centro de trabajo.',
     },
     {
       termino: 'El PAIES',
-      significado: 'Plan de Acción Intersectorial de Entornos Saludables.',
+      significado:
+        '<span style="text-transform: uppercase">P</span>lan de Acción Intersectorial de Entornos Saludables.',
     },
     {
       termino: 'Población sujeto',
@@ -220,7 +221,8 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'CONASA. (2016).  Lineamientos nacionales de Entornos.',
+      referencia:
+        'CONASA. (2016). <em>Lineamientos nacionales de Entornos</em>.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-entornos-nacionales-2016.pdf',
     },
@@ -238,19 +240,19 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2007). Estrategia de entornos saludables.',
+        'Ministerio de Salud y Protección Social. (2007). <em>Estrategia de entornos saludables</em>.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/plan-de-accion-intersectorial.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2018). Estrategia de entorno saludable comunitario.',
+        'Ministerio de Salud y Protección Social. (2018). <em>Estrategia de entorno comunitario saludable</em>.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/estrategia-entorno-comunitario-2019.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2009). Manual de gestión territorial.',
+        'Ministerio de Salud y Protección Social. (2009). <em>Manual de gestión territorial</em>.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/manual-de-gestion-territorial-de-la-ees.pdf',
     },
@@ -283,7 +285,7 @@ export default {
       autores: [
         {
           nombre: 'Sandra Patricia Diaz Gutiérrez ',
-          cargo: 'Experto temático ',
+          cargo: 'Experto temático',
           centro:
             'Regional Huila - Centro de la Industria la Empresa y los Servicios',
         },
@@ -321,13 +323,13 @@ export default {
       autores: [
         {
           nombre: 'Yazmín Rocío Figueroa Pacheco',
-          cargo: 'Diseño web-2023',
+          cargo: 'Diseño web',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack-2023',
+          cargo: 'Desarrollador Fullstack',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -362,6 +364,12 @@ export default {
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos educativos digitales',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Validación de recursos educativos digitales',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',

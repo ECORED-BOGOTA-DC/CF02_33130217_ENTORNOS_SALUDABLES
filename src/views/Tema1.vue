@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Estrategias de Entornos Saludables
+      h1 Estrategias de entornos saludables
     
     <br><br>
     .row.justify-content-end.align-items-center.mb-5
@@ -16,7 +16,7 @@
         .BGT02.px-4.py-lg-5.py-4
           .row.justify-content-end
             .col-lg-10
-              p.mb-0 Para comprender la aplicación de estrategias, es importante tener claridad sobre los conceptos básicos de los entornos saludables, sus objetivos, características, tipos de población, escenarios y operación de cada entorno como a continuación se exponen:
+              p.mb-0 Para comprender la aplicación de estrategias, es importante tener claridad sobre los conceptos básicos de los entornos saludables, sus objetivos, características, tipos de población, escenarios y operación de cada entorno, como a continuación se exponen:
       .col-lg-1.d-lg-flex.d-none
     <br><br>
 
@@ -76,7 +76,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-10.order-lg-1.order-2(data-aos="fade-right")
               .h4.ms-4 Entorno laboral
-              p.ms-4.mb-0 El entorno laboral comprendido como: escenarios donde las personas e individuos se organizan para producir bienes y servicios en condiciones que promueven y protegen la salud brindando bienestar a los trabajadores, sus familias y comunidades, con la participación en la eliminación y mitigación de los factores adversos a su salud. Comprende los escenarios laborales formales e informales.
+              p.ms-4.mb-0 El entorno laboral comprendido como: escenarios donde las personas e individuos se organizan para producir bienes y servicios en condiciones que promueven y protegen la salud, brindando bienestar a los trabajadores, sus familias y comunidades, con la participación en la eliminación y mitigación de los factores adversos a su salud. Comprende los escenarios laborales, formales e informales.
             .col-lg-2.col-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
               img(src='@/assets/curso/tema1/img06.svg' alt="Imagen decorativa")
           .row.justify-content-center
@@ -88,12 +88,13 @@
           .row.justify-content-center.align-items-center
             .col-lg-10.order-lg-1.order-2(data-aos="fade-right")
               .h4.ms-4 Entorno institucional
-              p.ms-4.mb-0 Está conformado por los espacios intra y extramurales de las IPS públicas y privadas, todas las instituciones que prestan algún tipo de servicio social o de protección y sus relaciones sinérgicas en pro de la consecución de una salud adecuada la cual se caracteriza porque las instituciones u organizaciones al actuar de manera conjunta y coordinada logran mejorar las condiciones de vida e incidir de manera directa sobre los determinantes ambientales, sanitarios y sociales.
+              p.ms-4.mb-0 Está conformado por los espacios intra y extramurales de las IPS públicas y privadas, todas las instituciones que prestan algún tipo de servicio social o de protección y sus relaciones sinérgicas en pro de la consecución de una salud adecuada, la cual se caracteriza porque las instituciones u organizaciones al actuar de manera conjunta y coordinada logran mejorar las condiciones de vida e incidir de manera directa sobre los determinantes ambientales, sanitarios y sociales.
             .col-lg-2.col-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
               img(src='@/assets/curso/tema1/img08.svg' alt="Imagen decorativa")
       .col-lg-10
-        <br><br>
         .row.justify-content-center.align-items-end
+          .col.d-lg-flex.d-none
+            <br><br>
           .col-xxl-2.col-lg-3.col-4.img-02.zindex-2.px-xxl-0.px-lg-4(data-aos="fade-right")
             img(src='@/assets/curso/tema1/img09.png' alt="Imagen decorativa")
           .col-12.zindex-1(data-aos="fade-left")
@@ -101,7 +102,7 @@
               .row.justify-content-end
                 .col-lg-9
                   .h4 Importante
-                  p.mb-0 El país enmarcó inicialmente la Estrategia de Entornos Saludables: principalmente en dos entornos, el de escuela y el de vivienda. Pero de igual forma con las experiencias aprendidas, la creciente gestión intersectorial y las competencias sectoriales, generaron la necesidad de definir el entorno hogar, laboral formal e informal, comunitario, educativo e institucional y resignificar los componentes y líneas operativas de la estrategia, hacia el desarrollo humano, desarrollo sostenible y la calidad de vida, tomando como centro de las acciones e intervenciones a las personas, familias y comunidades (MinSalud, 2016).
+                  p.mb-0 El país enmarcó inicialmente la estrategia de entornos saludables: principalmente en dos entornos, el de escuela y el de vivienda. Pero de igual forma con las experiencias aprendidas, la creciente gestión intersectorial y las competencias sectoriales, generaron la necesidad de definir el entorno hogar, laboral formal e informal, comunitario, educativo e institucional y resignificar los componentes y líneas operativas de la estrategia, hacia el desarrollo humano, desarrollo sostenible y la calidad de vida, tomando como centro de las acciones e intervenciones a las personas, familias y comunidades (MinSalud, 2016).
     
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -109,7 +110,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
-        p De manera general podría decirse que el objetivo de la política de entornos saludables es formular de manera intersectorial, interinstitucional y sectorial, estrategias, intervenciones y acciones para que de una mera sinérgica operen los entornos laboral, educativo, hogar y comunitario e institucional  teniendo en cuenta que cada uno de ellos se rige por unos componentes ya definidos, así como unas líneas de acción específicas; todo esto enmarcado en los enfoques encaminados a modificar los determinantes sociales y políticos de la salud, cuyos sujetos  son moldeables y donde se tenga por finalidad el lograr una mejor calidad de vida del individuo en su familia y la comunidad dentro de las políticas de desarrollo sostenible y mayores posibilidades de desarrollo humano.
+        p De manera general, podría decirse que el objetivo de la política de entornos saludables es formular de manera intersectorial, interinstitucional y sectorial, estrategias, intervenciones y acciones para que de una mera sinérgica operen los entornos laboral, educativo, hogar y comunitario e institucional, teniendo en cuenta que cada uno de ellos se rige por unos componentes ya definidos, así como unas líneas de acción específicas; todo esto enmarcado en los enfoques encaminados a modificar los determinantes sociales y políticos de la salud, cuyos sujetos  son moldeables y donde se tenga por finalidad el lograr una mejor calidad de vida del individuo en su familia y la comunidad dentro de las políticas de desarrollo sostenible y mayores posibilidades de desarrollo humano.
         p.mb-0 Así es como se pueden diferenciar los siguientes objetivos generales de la política de los entornos:
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img10.png' alt="Imagen decorativa") 
@@ -124,7 +125,7 @@
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/tema1/img12.svg' alt='Imagen decorativa')
-        p.text-center.mb-0 Generar respuestas integradas para dar solución a las necesidades articulando la oferta dirigida, las diferencias poblacionales en asocio con los programas sociales.
+        p.text-center.mb-0 Generar respuestas integradas para dar solución a las necesidades, articulando la oferta dirigida, las diferencias poblacionales en asocio con los programas sociales.
       .tarjeta.BGR05.p-4
         .row.justify-content-center.mb-3
           .col-6
@@ -151,7 +152,7 @@
           img(src='@/assets/curso/tema1/img16.png' alt="Imagen decorativa")
         .col-lg-9(data-aos="fade-left")
           p Los entornos se caracterizan por tener sujetos con roles definidos y una estructura organizativa, que comprende condiciones de base sociodemográfica que pueden ser urbanas o rurales (MinSalud, 2016).
-          p.mb-0 De forma específica todos los entornos tienen definidas las siguientes características: 
+          p.mb-0 De forma específica, todos los entornos tienen definidas las siguientes características: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
@@ -176,7 +177,7 @@
             | Proporcionan ambientes de derechos y mejoramiento de la calidad de vida. 
           li
             i.fas.fa-check-circle(style="color: #59BEE2;")
-            | Garantizan que se den condiciones de seguridad, convivencia, protección y cuidado para lograr el bienestar de individuos y comunidades
+            | Garantizan que se den condiciones de seguridad, convivencia, protección y cuidado para lograr el bienestar de individuos y comunidades.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img17.svg' alt="Imagen decorativa")
 
@@ -202,7 +203,7 @@
             | Generan condiciones integrales transversales desde la potabilización del agua, el saneamiento básico, la infraestructura de los servicios de salud, dinámicas sociales que contribuyen a mejorar modos, condiciones y estilos de vida.
           li
             i.fas.fa-check-circle(style="color: #59BEE2;")
-            | Los entornos se erigen, es decir se fundamentan como los escenarios, configuran una unidad de gestión que tiene respuestas claras y tangibles desde lo institucional, lo sectorial y sus diversos actores que participan en el bienestar y desarrollo de individuos, familias y comunidades.
+            | Los entornos se erigen, es decir, se fundamentan como los escenarios, configuran una unidad de gestión que tiene respuestas claras y tangibles desde lo institucional, lo sectorial y sus diversos actores que participan en el bienestar y desarrollo de individuos, familias y comunidades.
 
     p.mb-5 A continuación, se describen las características de manera específica de cada entorno:
 
@@ -214,7 +215,7 @@
             ul.lista-ul--color.lista-ul--separador.mb-0
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
-                | Crea situaciones de seguridad, apoyo y potenciación de capacidades individuales, familiares y comunitarias las cuales llevan a buen desarrollo de los miembros del hogar.
+                | Crea situaciones de seguridad, apoyo y potenciación de capacidades individuales, familiares y comunitarias, las cuales llevan a buen desarrollo de los miembros del hogar.
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
                 | Posibilita el desarrollo de una dinámica relacional que lleva a identificar los sucesos vitales de quienes conviven en los diferentes ciclos del curso de vida.  
@@ -223,7 +224,7 @@
                 | Facilita la transmisión de saberes y costumbres entre las generaciones.  
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
-                | Ofrece un espacio tangible que se comparte con adecuadas condiciones de higiene y seguridad, las cuales son sostenibles y seguras por tanto brinda condiciones de vivienda estables y seguras.
+                | Ofrece un espacio tangible que se comparte con adecuadas condiciones de higiene y seguridad, las cuales son sostenibles y seguras, por tanto, brinda condiciones de vivienda estables y seguras.
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
                 | Incentiva conocimientos, actitudes y prácticas en relaciones basadas en el respeto, la convivencia sana, que aporten a los procesos de desarrollo de las personas y alimentación saludable.
@@ -238,7 +239,7 @@
                 | Incentiva que los individuos pongan en práctica los conocimientos y el desarrollo de habilidades, destrezas, competencias, actitudes, aptitudes y prácticas de cuidado (de sí mismo, del otro, del ambiente).
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
-                | Fomenta espacios físicos higiénico-sanitarias favorables, seguras y sostenibles para el desarrollo humano y la calidad de vida. Así mismo, facilita el desarrollo de políticas sectoriales e intersectoriales e interinstitucionales para mejorar la calidad de vida de la comunidad educativa e incidir en el entorno de la misma haciéndolo seguro y confiable.
+                | Fomenta espacios físicos higiénico-sanitarias favorables, seguras y sostenibles para el desarrollo humano y la calidad de vida. Así mismo, facilita el desarrollo de políticas sectoriales e intersectoriales e interinstitucionales para mejorar la calidad de vida de la comunidad educativa e incidir en el entorno de la misma, haciéndolo seguro y confiable.
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
                 | Incluye herramientas tecnológicas, sostenibles, que aporten al mejoramiento de la calidad de vida de la comunidad educativa, con enfoque diferencial.
@@ -262,13 +263,13 @@
             ul.lista-ul--color.lista-ul--separador.mb-0
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
-                p.mb-0 #[strong Posibilitan]: a&#41; Fortalecer las capacidades de los individuos en el ejercicio de la participación social permitiéndoles ser líderes, auto gestionarse y reconocer su responsabilidad en el logro de la salud y la calidad de vida; b&#41; Adquirir mediante IEC (información, educación y comunicación) y hábitos una adecuada nutrición y reducción del sedentarismo; c&#41; Integrar todos los entornos, garantizando diferenciación, diversidad y patrones culturales específicos.
+                p.mb-0 #[strong Posibilitan]: #[strong a]&#41; Fortalecer las capacidades de los individuos en el ejercicio de la participación social, permitiéndoles ser líderes, auto gestionarse y reconocer su responsabilidad en el logro de la salud y la calidad de vida; #[strong b]&#41; Adquirir mediante IEC (información, educación y comunicación) y hábitos una adecuada nutrición y reducción del sedentarismo; #[strong c]&#41; Integrar todos los entornos, garantizando diferenciación, diversidad y patrones culturales específicos.
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
-                p.mb-0 #[strong Facilitan]: a&#41; La oferta de infraestructuras, servicios y bienes de salud y sanitarios orientadas al cuidado y al desarrollo sostenible de individuos, familias y comunidad; b&#41; El fomento de hábitos nutricionales adecuados y saludables; c&#41; Integra todos los entornos.  
+                p.mb-0 #[strong Facilitan]: #[strong a]&#41; La oferta de infraestructuras, servicios y bienes de salud y sanitarios orientadas al cuidado y al desarrollo sostenible de individuos, familias y comunidad; #[strong b]&#41; El fomento de hábitos nutricionales adecuados y saludables; #[strong c]&#41; Integra todos los entornos.  
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
-                p.mb-0 #[strong Ejerce]: Abogacía en los ámbitos político y social para mejorar el cuidado y el uso adecuado del espacio público, así como su mejoramiento.
+                p.mb-0 #[strong Ejerce]: abogacía en los ámbitos político y social para mejorar el cuidado y el uso adecuado del espacio público, así como su mejoramiento.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img22.png' alt="Imagen decorativa")
         .row.justify-content-center
@@ -277,13 +278,13 @@
             ul.lista-ul--color.lista-ul--separador.mb-0
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
-                | Posibilitan la ejecución de acciones dentro de los enfoques generales de los entornos, además de garantizar hospitales verdes y saludables, condiciones sanitarias adecuadas según los servicios habilitados por las IPS articulando esfuerzos sectoriales e intersectoriales para el mejoramiento de la calidad de vida y la salud de las personas.
+                | Posibilitan la ejecución de acciones dentro de los enfoques generales de los entornos, además de garantizar hospitales verdes y saludables, condiciones sanitarias adecuadas según los servicios habilitados por las IPS, articulando esfuerzos sectoriales e intersectoriales para el mejoramiento de la calidad de vida y la salud de las personas.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img23.png' alt="Imagen decorativa")
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.4 Población Sujeto
+      h2 1.4 Población sujeto
 
     <br><br>
     .row.justify-content-end.align-items-end.mb-5
@@ -294,7 +295,7 @@
         .BGT07.px-4.py-lg-5.py-4
           .row.justify-content-end
             .col-lg-10
-              p.mb-0 Todas las estrategias de los entornos van direccionadas hacia a las personas, familias y comunidades, con el objetivo de incidir de manera positiva en la calidad de vida, el desarrollo sostenible y el desarrollo humano; así como la reducción de riesgos mediante la transformación de los entornos en los cuales viven y se desarrollan individuos familias y comunidades.
+              p.mb-0 Todas las estrategias de los entornos van direccionadas hacia las personas, familias y comunidades, con el objetivo de incidir de manera positiva en la calidad de vida, el desarrollo sostenible y el desarrollo humano; así como la reducción de riesgos mediante la transformación de los entornos en los cuales viven y se desarrollan individuos familias y comunidades.
       .col-lg-1.d-lg-flex.d-none
 
     .BGM02.py-4.px-md-5.px-4.mb-5(data-aos="fade-right")
@@ -307,7 +308,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-primario(data-aos="fade-right")
-          h5 Tabla 1
+          h5 Tabla 1.
           span Entornos y población sujeto
         table(data-aos="zoom-in"  alt="Texto alternativo tabla")
           caption Nota. <a style="font-weight: 400">MinSalud (2018).</a>
@@ -324,13 +325,13 @@
               td(style="border: 2px solid #D3D3D3;") Estudiantes<br>Padres de familia<br>Directivos educadores<br>Personal administrativo
             tr
               th(style="border: 2px solid #D3D3D3;") Laboral
-              td(style="border: 2px solid #D3D3D3;") Trabajadores informales<br>Mujeres rurales trabajadoras<br>Adultos mayores trabajadores Personas trabajadoras con discapacidad<br>Trabajadores formales cubiertos por el SGSSS en el trabajo
+              td(style="border: 2px solid #D3D3D3;") Trabajadores informales<br>Mujeres rurales trabajadoras<br>Adultos mayores trabajadores <br>Personas trabajadoras con discapacidad<br>Trabajadores formales cubiertos por el SGSSS en el trabajo
             tr
               th(style="border: 2px solid #D3D3D3;") Comunitario 
-              td(style="border: 2px solid #D3D3D3;") Grupos de base comunitaria Organizaciones<br>Redes apoyo sociales<br>Comunidad en general
+              td(style="border: 2px solid #D3D3D3;") Grupos de base comunitaria <br>Organizaciones<br>Redes apoyo sociales<br>Comunidad en general
             tr
               th(style="border: 2px solid #D3D3D3;") Institucional
-              td(style="border: 2px solid #D3D3D3;") Personas, familias con atención en salud (IPS)<br>Personas, familias y comunidades que transitan por Servicios Sociales o protección integral<br>Personas privadas de la libertad Personas de las fuerzas militares Personas que transitan por conventos<br>Personas que transitan por Centro vida
+              td(style="border: 2px solid #D3D3D3;") Personas, familias con atención en salud (IPS)<br>Personas, familias y comunidades que transitan por servicios sociales o protección integral<br>Personas privadas de la libertad <br>Personas de las fuerzas militares <br>Personas que transitan por conventos<br>Personas que transitan por centro vida
             tr
               th(style="border: 2px solid #D3D3D3;") Todos pueden transitar por los entornos. Población intervenida con la articulación de programas de Salud Pública.
               td(style="border: 2px solid #D3D3D3;") Hombres que tienen relaciones sexuales con hombres<br>Mujeres transgénero<br>Personas en situación de prostitución<br>Usuario de drogas inyectables<br>Habitantes de calle
@@ -375,15 +376,15 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-primario(data-aos="fade-right")
-          h5 Tabla 2
+          h5 Tabla 2.
           span Componentes de la operación de los entornos
         table(data-aos="zoom-in"  alt="Texto alternativo tabla")
           caption Nota. <a style="font-weight: 400">MinSalud (2016).</a>
           thead
             tr
               th(style="background-color: #288640; border: 2px solid #D3D3D3; width: 15%; font-size: 18px;").text-white.text-center Entorno
-              th(style="background-color: #288640; border: 2px solid #D3D3D3; width: 25%; font-size: 18px;").text-white.text-center Población
-              th(style="background-color: #288640; border: 2px solid #D3D3D3; width: 60%; font-size: 18px;").text-white.text-center Población
+              th(style="background-color: #288640; border: 2px solid #D3D3D3; width: 25%; font-size: 18px;").text-white.text-center Nombre
+              th(style="background-color: #288640; border: 2px solid #D3D3D3; width: 60%; font-size: 18px;").text-white.text-center Líneas de acción
           tbody
             tr
               th(style="border: 2px solid #D3D3D3;").text-center 1
@@ -417,7 +418,7 @@
                     | Coordinación y articulación para la gestión de infraestructuras, bienes y servicios seguros, incluyentes y sostenibles.
             tr
               th(style="border: 2px solid #D3D3D3;").text-center 3
-              td(style="border: 2px solid #D3D3D3;") Gestión de Servicios sociales, orientados a la respuesta integral e integrada para el desarrollo humano, la calidad de vida y el desarrollo sostenible.
+              td(style="border: 2px solid #D3D3D3;") Gestión de servicios sociales, orientados a la respuesta integral e integrada para el desarrollo humano, la calidad de vida y el desarrollo sostenible.
               td(style="border: 2px solid #D3D3D3;")
                 ol.lista-ol--cuadro
                   li 
@@ -472,7 +473,7 @@
                     | Conformación y/o fortalecimiento de redes o grupos de gestión para la movilización y el control social.
             tr
               th(style="border: 2px solid #D3D3D3;").text-center 6
-              td(style="border: 2px solid #D3D3D3;") Gestión del Conocimiento para la promoción del desarrollo humano, la calidad de vida y desarrollo sostenible.
+              td(style="border: 2px solid #D3D3D3;") Gestión del conocimiento para la promoción del desarrollo humano, la calidad de vida y desarrollo sostenible.
               td(style="border: 2px solid #D3D3D3;")
                 ol.lista-ol--cuadro
                   li 
@@ -482,7 +483,7 @@
                   li 
                     .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
                       span 2
-                    | Sistematización y apropiación de conocimientos enmarcado en los principios de la investigación social.
+                    | Sistematización y apropiación de conocimientos enmarcados en los principios de la investigación social.
                   li 
                     .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
                       span 3

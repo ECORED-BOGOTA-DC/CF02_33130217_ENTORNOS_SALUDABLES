@@ -16,7 +16,7 @@
       
       figure(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/chsjE-XunL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p Una vez realizada la fase diagnóstica, continua el proceso de análisis de actores.
 
@@ -58,13 +58,13 @@
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
             .h4 Analizar las acciones
-            p.mb-0 El primer paso de partida es que los diferentes sectores de la mesa deben analizar cuáles acciones son viables social y económicamente brindando la prioridad requerida en su implementación analizando su costo directo o indirecto y beneficio.
+            p.mb-0 El primer paso de partida es que los diferentes sectores de la mesa deben analizar cuáles acciones son viables social y económicamente brindando la prioridad requerida en su implementación, analizando su costo directo o indirecto y beneficio.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema2/img04.svg' alt="Imagen decorativa")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
             .h4 Priorización y viabilización
-            p.mb-0 Una vez se hayan priorización y viabilizado las opciones se procederá a realizar el análisis desde el punto de vista de impacto social, enfoque diferencial, de género, ciclo de vida, adicional deberá analizarse si la intervención es equitativa y sostenible en cuanto a costos y beneficios.
+            p.mb-0 Una vez se hayan priorizado y viabilizado las opciones, se procederá a realizar el análisis desde el punto de vista de impacto social, enfoque diferencial, de género, ciclo de vida, adicional deberá analizarse si la intervención es equitativa y sostenible en cuanto a costos y beneficios.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema2/img05.svg' alt="Imagen decorativa")
         .row.justify-content-center
@@ -88,7 +88,7 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Formulación de Planes de acción intersectoriales de entornos saludables
+      h2 2.2 Formulación de planes de acción intersectoriales de entornos saludables
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -112,8 +112,9 @@
             i.fas.fa-check-circle(style="color: #59BEE2;")
             | Sostenibilidad ambiental.
 
-    <br> <br>
     .row.justify-content-center.mb-5
+      .col.d-lg-flex.d-none
+        <br><br>
       .col-lg-10
         .row.justify-content-center.align-items-end
           .col-xxl-2.col-lg-3.col-4.img-02.zindex-2.px-xxl-2.px-lg-4(data-aos="fade-right")
@@ -122,7 +123,7 @@
             .arrow-down.BGR04.p-5
               .row.justify-content-end
                 .col-lg-9
-                  .h4 Propósito general de los planes es
+                  .h4 El propósito general de los planes es:
                   p.mb-0 Lograr que las entidades territoriales se fortalezcan para que logren establecer procesos sociales, económicos, políticos y ambientales que minimicen los riesgos, promuevan factores protectores de la salud en cada entorno dentro de un ámbito de desarrollo seguro y sostenible.
 
     p.mb-5 La OPS propone tres líneas de acción sobre las cuales deben ser formulados los #[strong PAIES]:
@@ -132,19 +133,19 @@
         .arrow-right.BG07.p-4(data-aos="fade-right")
           .row.justify-content-center.align-items-center
             .col-2
-              .h2 1
+              .h2.mb-0 1
             .col
               p.mb-0 Acciones que fortalezcan la gestión y abogacía de la estrategia de entornos saludables.
         .arrow-right.BG09.p-4(data-aos="fade-right")
           .row.justify-content-center.align-items-center
             .col-2
-              .h2 2
+              .h2.mb-0 2
             .col
               p.mb-0 Evaluación de causa y efecto en la formulación de políticas públicas saludables.
         .arrow-right.BG10.p-4(data-aos="fade-right")
           .row.justify-content-center.align-items-center
             .col-2
-              .h2 3
+              .h2.mb-0 3
             .col
               p.mb-0 Inclusión de acciones intersectoriales viables y de alto impacto en la salud.
       .col-lg-4.col-8.img-04.order-1.mb-lg-0.mb-4(data-aos="fade-left")
@@ -155,7 +156,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-secundario(data-aos="fade-right")
-          h5 Tabla 3
+          h5 Tabla 3.
           span Resultados de las líneas de acción
         table(data-aos="zoom-in"  alt="Texto alternativo tabla")
           caption Nota. <a style="font-weight: 400">Ministerio de Salud (2007).</a>
@@ -166,13 +167,13 @@
           tbody
             tr
               th(style="border: 2px solid #D3D3D3;") Resultado 1
-              td(style="border: 2px solid #D3D3D3;") Sistema nacional de gestión de la Estrategia de Entornos Saludables instalado y funcionando. Ministerio de la Protección Social Ministerio de Educación Nacional Ministerio de Ambiente, Vivienda y Desarrollo Territorial Agencia Presidencial para la Acción Social y la Cooperación Internacional Servicio Nacional de Aprendizaje República de Colombia.
+              td(style="border: 2px solid #D3D3D3;") Sistema nacional de gestión de la estrategia de entornos saludables instalado y funcionando. Ministerio de la Protección Social Ministerio de Educación Nacional Ministerio de Ambiente, Vivienda y Desarrollo Territorial Agencia Presidencial para la Acción Social y la Cooperación Internacional Servicio Nacional de Aprendizaje República de Colombia.
             tr
               th(style="border: 2px solid #D3D3D3;") Resultado 2
               td(style="border: 2px solid #D3D3D3;") Sistema nacional de evaluación del impacto de políticas de interés social en salud, con énfasis en educación y habitabilidad, desarrollado.
             tr
               th(style="border: 2px solid #D3D3D3;") Resultado 3
-              td(style="border: 2px solid #D3D3D3;") Acciones integrales seguras y sostenibles para lograr la reducción de los riesgos y la promoción de los factores protectores del entorno en la salud, con énfasis en escuelas y viviendas desarrolladas.
+              td(style="border: 2px solid #D3D3D3;") Acciones integrales, seguras y sostenibles para lograr la reducción de los riesgos y la promoción de los factores protectores del entorno en la salud, con énfasis en escuelas y viviendas desarrolladas.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -195,7 +196,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Estructura de los planes de acción intersectoriales de entornos saludables
     
-    p.mb-5 El Plan de Acción Intersectorial de Entornos Saludables - #[strong PAIES] incluye lo siguiente:
+    p.mb-5 El Plan de Acción Intersectorial de Entornos Saludables - #[strong (PAIES)] incluye lo siguiente:
 
     .row.justify-content-center.mb-5
       .col-lg-6(data-aos="zoom-in")
@@ -206,16 +207,16 @@
 
           .tarjeta.BGR11.p-3(x="40%" y="23%" numero="+")
             .h5.mb-2 Justificación
-            p.mb-0 Debe justificar el porqué de su acción en las zonas de interés, con la descripción general de los entornos, de la geografía, el clima, la tenencia y uso de tierras, vías, hidrografía, pirámide poblacional, perfil epidemiológico, zonas de desarrollo actividades económicas, condiciones de vulnerabilidad prioritarias en salud.
+            p.mb-0 Debe justificar el porqué de su acción en las zonas de interés, con la descripción general de los entornos, de la geografía, el clima, la tenencia y uso de tierras, vías, hidrografía, pirámide poblacional, perfil epidemiológico, zonas de desarrollo, actividades económicas, condiciones de vulnerabilidad prioritarias en salud.
           .tarjeta.BGR11.p-3(x="40%" y="40%" numero="+")
             .h5.mb-2 Objetivos
-            p.mb-0 Contener objetivos junto con metas generales y específicas las cuales surgen de los problemas identificados en el diagnóstico y a la línea de base. Los objetivos deben ser claros y medibles en el tiempo en lo posible de manera cualitativa y cuantitativa cuyo resultado debe ser el reflejo del mejoramiento de los entornos a intervenir.
+            p.mb-0 Contener objetivos junto con metas generales y específicas, las cuales surgen de los problemas identificados en el diagnóstico y a la línea de base. Los objetivos deben ser claros y medibles en el tiempo en lo posible de manera cualitativa y cuantitativa, cuyo resultado debe ser el reflejo del mejoramiento de los entornos a intervenir.
           .tarjeta.BGR11.p-3(x="40%" y="55%" numero="+")
             .h5.mb-2 Plan de acción
             p.mb-0 Comprendido por un plan de acción con una meta definida en el entorno, el alcance, la actividad descrita de manera clara y precisa en términos de cantidad, zonas, población con diferentes enfoques, la financiación, la programación en tiempos y los responsables.
           .tarjeta.BGR11.p-3(x="40%" y="71%" numero="+")
             .h5.mb-2 Indicadores
-            p.mb-0 Para la evaluación y retroalimentación recordando que es un plan dinámico y cambiante conforme se modifican los factores que producen las problemáticas en salud. Estos indicadores deben ser claros, medibles con fuentes conocidas para su recolección y hay que definir de qué tipo se plantean (gestión, formulación, insumo, de producto, de resultado, de desarrollo).
+            p.mb-0 Para la evaluación y retroalimentación, recordando que es un plan dinámico y cambiante conforme se modifican los factores que producen las problemáticas en salud. Estos indicadores deben ser claros, medibles con fuentes conocidas para su recolección y hay que definir de qué tipo se plantean (gestión, formulación, insumo, de producto, de resultado, de desarrollo).
 
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -223,9 +224,9 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
-        p En el sector salud como es común a todos los sectores la participación ciudadana es obligante y necesaria, siendo su presencia las que valida las políticas públicas, mejora los canales de comunicación, minimiza inconformidades y conflictos de las comunidades con el estado. Es imperante que la ciudadanía analice sus entornos comunicando una mirada realista de cada problema de salud detectado desde su propia vivencia. El hacer a la comunidad participe en la formulación del #[strong PAIES] la hace corresponsable de su ejecución y sostenibilidad ambiental.
+        p En el sector salud, como es común a todos los sectores, la participación ciudadana es obligante y necesaria, siendo su presencia las que valida las políticas públicas, mejora los canales de comunicación, minimiza inconformidades y conflictos de las comunidades con el estado. Es imperante que la ciudadanía analice sus entornos comunicando una mirada realista de cada problema de salud detectado desde su propia vivencia. El hacer a la comunidad partícipe en la formulación del #[strong PAIES] la hace corresponsable de su ejecución y sostenibilidad ambiental.
         .BG02.p-4  
-          p.mb-0 También garantiza que las comunidades ejerzan su derecho a mantenerse informados haciéndolos partícipes de las decisiones fortaleciendo su empoderamiento. Los planes construidos con la comunidad son legítimos y generan buenos ambientes para su ejecución por tanto hay que incluir a todas las organizaciones comunitarias en su construcción mediante convocatorias por diferentes medios y si se logra que participen se cierran brechas de inequidad, así mismo la comunidad también debe estar incluida en la supervisión del #[strong PAIES] lo que podría hacerse mediante la creación de veedurías ciudadanas de salud.
+          p.mb-0 También garantiza que las comunidades ejerzan su derecho a mantenerse informados, haciéndolos partícipes de las decisiones, fortaleciendo su empoderamiento. Los planes construidos con la comunidad son legítimos y generan buenos ambientes para su ejecución, por tanto, hay que incluir a todas las organizaciones comunitarias en su construcción mediante convocatorias por diferentes medios y si se logra que participen se cierran brechas de inequidad, así mismo la comunidad también debe estar incluida en la supervisión del #[strong PAIES] lo que podría hacerse mediante la creación de veedurías ciudadanas de salud.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img13.svg' alt="Imagen decorativa")
 

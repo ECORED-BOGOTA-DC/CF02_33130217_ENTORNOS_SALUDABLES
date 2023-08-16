@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido.mb-4
       .titulo-principal__numero
         span 3
-      h1 Procesos de Gestión
+      h1 Procesos de gestión
 
     .BGM01.pt-4.px-md-5.px-4.mb-4
       .row.justify-content-center.align-items-center.mb-5
@@ -34,7 +34,7 @@
           li 
             .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
               span 2
-            | Conformación de redes sociales y comunitarias garantizando en todo el proceso la participación social.
+            | Conformación de redes sociales y comunitarias, garantizando en todo el proceso la participación social.
           li 
             .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
               span 3
@@ -70,11 +70,11 @@
           li 
             .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
               span 11
-            | Definir claramente las acciones de inspección vigilancia y control en cada entorno a intervenir, como también los responsables de su ejecución en el territorio.
+            | Definir claramente las acciones de inspección, vigilancia y control en cada entorno a intervenir, como también los responsables de su ejecución en el territorio.
           li 
             .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
               span 12
-            | Incluir acciones efectivas de información educación y comunicación, así como de canalización.
+            | Incluir acciones efectivas de información, educación y comunicación, así como de canalización.
       .col-lg-5.d-lg-flex.d-none(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img02.svg' alt="Imagen decorativa")
 
@@ -107,7 +107,7 @@
           .bloque-texto-g__texto.p-4(data-aos="fade-right")
             p.mb-0 Adicional a lo que antecede, desde este plan del alcance se pueden generar listas de chequeo de actividades que ayuden a mantener dentro de los tiempos la ejecución de las acciones. <br><br>El plan de gestión del alcance se implementa para dar una estructura al PAIES mediante la documentación de todos los recursos necesarios para llegar a los objetivos del plan.
 
-    p.mb-5 Este proceso de la creación del plan de gestión del alcance del PAIES evita varios conflictos comunes en la ejecución de proyectos como son:
+    p.mb-5 Este proceso de la creación del plan de gestión del alcance del PAIES evita varios conflictos comunes en la ejecución de proyectos, como son:
 
     .row.justify-content-center.mb-5
       .col-xl-4.col-md-6.col-10.mb-4(data-aos="fade-right")
@@ -149,7 +149,7 @@
         img(src='@/assets/curso/tema3/img09.svg' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
         LineaTiempoD.color-acento-contenido
-          p.text-small.mb-0(numero="1" titulo="Creación del documento") Crear un documento donde se define el alcance el cual incluye procesos de participación ciudadana mediante reuniones y la opinión de expertos.
+          p.text-small.mb-0(numero="1" titulo="Creación del documento") Crear un documento donde se define el alcance, el cual incluye procesos de participación ciudadana mediante reuniones y la opinión de expertos.
           p.text-small.mb-0(numero="2" titulo="Identificación de necesidades") Identificar cuáles son las necesidades a intervenir en cada entorno priorizado para el PAIES.
           p.text-small.mb-0(numero="3" titulo="Definición del alcance") Definir claramente el alcance, los productos a lograr, los indicadores de evaluación y seguimiento.
           p.text-small.mb-0(numero="4" titulo="Desglose de estrategias") Desglosar cada estrategia con sus metas y actividades de una manera clara, definiendo los enfoques, entornos de cada grupo a intervenir, así como los tiempos y responsables de la intervención.
