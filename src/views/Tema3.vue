@@ -138,7 +138,7 @@
     .BGM02.py-4.px-md-5.px-4.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center
         .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
-          p.mb-0 En este sentido es necesario definir a qué se refiere el alcance del PAIES, y este no es más que la definición de los objetivos, los cronogramas y los productos a obtener con su ejecución en el corto, mediano y largo plazo. De esta manera se define claramente qué cosas se ejecutarán y que cosas no se ejecutarán contando con un cronograma en la traza de los tiempos. Lo antes descrito obliga a definir los actores de cada proceso y actividad.
+          p.mb-0 En este sentido, es necesario definir a qué se refiere el alcance del PAIES, y este no es más que la definición de los objetivos, los cronogramas y los productos a obtener con su ejecución en el corto, mediano y largo plazo. De esta manera se define claramente qué cosas se ejecutarán y que cosas no se ejecutarán contando con un cronograma en la traza de los tiempos. Lo antes descrito obliga a definir los actores de cada proceso y actividad.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           img(src='@/assets/curso/tema3/img08.png' alt="Imagen decorativa")
     

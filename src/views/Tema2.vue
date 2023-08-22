@@ -196,7 +196,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Estructura de los planes de acción intersectoriales de entornos saludables
     
-    p.mb-5 El Plan de Acción Intersectorial de Entornos Saludables - #[strong (PAIES)] incluye lo siguiente:
+    p.mb-5 El Plan de Acción Intersectorial de Entornos Saludables #[strong (PAIES)] incluye lo siguiente:
 
     .row.justify-content-center.mb-5
       .col-lg-6(data-aos="zoom-in")

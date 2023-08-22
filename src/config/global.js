@@ -177,7 +177,7 @@ export default {
     {
       tema: '2. Gestión territorial y local',
       referencia:
-        'MinSalud. (2006). Lineamientos nacionales para la aplicación y el desarrollo de las estrategias de entornos saludables.',
+        'MinSalud. (2006). Lineamientos Nacionales para la aplicación y el desarrollo de las estrategias de entornos saludables.',
       tipo: 'PDF',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-nacionales-para-la-aplicacion-y-el-desarrollo-de-las-ees.pdf',
@@ -222,7 +222,7 @@ export default {
   referencias: [
     {
       referencia:
-        'CONASA. (2016). <em>Lineamientos nacionales de Entornos</em>.',
+        'CONASA. (2016). <em>Lineamientos Nacionales de Entornos</em>.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-entornos-nacionales-2016.pdf',
     },

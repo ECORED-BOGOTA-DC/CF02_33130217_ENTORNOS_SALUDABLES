@@ -347,7 +347,7 @@
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta BGR08")
           div(titulo="Escenarios del entorno institucional")
-            p.mb-0 Son las entidades como: IPS (instituciones prestadoras de salud), organizaciones que prestan servicios sociales y de protección.
+            p.mb-0 Son las entidades como: IPS (Instituciones Prestadoras de S00..alud), organizaciones que prestan servicios sociales y de protección.
           div(titulo="Escenarios del entorno hogar")
             p.mb-0 Son los espacios como: viviendas donde conviven o confluyen personas con lazos de consanguinidad, afecto o afinidad, barrios. 
           div(titulo="Escenarios del entorno comunitario")
