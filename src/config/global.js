@@ -363,12 +363,6 @@ export default {
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validación de recursos educativos digitales',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
           nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Validación de recursos educativos digitales',
           centro:
