@@ -105,7 +105,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Procesos de Gestión',
+        titulo: 'Procesos de gestión',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -152,7 +152,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/33130217_CF002_DU.pdf',
       },
       {
         icono: 'fas fa-download',

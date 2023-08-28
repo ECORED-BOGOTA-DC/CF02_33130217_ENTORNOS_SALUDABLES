@@ -256,7 +256,7 @@
                 i.fas.fa-check-circle(style="color: #59BEE2;")
                 | Promueven la implementación de IEC (Información, Educación y Comunicación) para los trabajadores, sus familias y comunidades para identificar problemas y riesgos en el medio laboral. De igual forma, se promueve el desarrollo de iniciativas ya probadas en las empresas para cuidar a los trabajadores.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img21.png' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img21.png' alt="Imagen entorno laboral donde muestra un individuo, un superior y un maletín")
         .row.justify-content-center
           .col-lg-8.order-lg-1.order-2
             .h4 Entorno comunitario
@@ -271,7 +271,7 @@
                 i.fas.fa-check-circle(style="color: #59BEE2;")
                 p.mb-0 #[strong Ejerce]: abogacía en los ámbitos político y social para mejorar el cuidado y el uso adecuado del espacio público, así como su mejoramiento.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img22.png' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img22.png' alt="Imagen entorno comunitario, reunión de personas.")
         .row.justify-content-center
           .col-lg-8.order-lg-1.order-2
             .h4 Entorno institucional
@@ -280,7 +280,7 @@
                 i.fas.fa-check-circle(style="color: #59BEE2;")
                 | Posibilitan la ejecución de acciones dentro de los enfoques generales de los entornos, además de garantizar hospitales verdes y saludables, condiciones sanitarias adecuadas según los servicios habilitados por las IPS, articulando esfuerzos sectoriales e intersectoriales para el mejoramiento de la calidad de vida y la salud de las personas.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img23.png' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img23.png' alt="Imagen de entorno institucional donde muestra una enfermera calibrando equipos.")
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -369,7 +369,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img27.svg' alt="Imagen decorativa") 
+          img(src='@/assets/curso/tema1/img27.svg' alt="Muestra imagen con 3 variables:<br>1. Contexto territorio<br>2. Sujetos que se aborden<br>3. Caracterización social y ambiental del entorno") 
 
     p.mb-5 La operación de los entornos como ya se mencionó se da en un marco normativo general que tiene seis (6) componentes, cada uno con sus líneas de acción (ver tabla 2):
     

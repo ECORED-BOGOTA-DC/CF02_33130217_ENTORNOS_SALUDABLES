@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra mapa mental con síntesis de estrategias de entornos saludables buscan principalmente: <br>1. descripción de entornos (institucional, hogar, comunitario, educativo y laboral) <br>2. Escenarios<br>3. Gestión territorial de entornos<br>4. Procesos de gestión<br>5. Plan de gestión")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
