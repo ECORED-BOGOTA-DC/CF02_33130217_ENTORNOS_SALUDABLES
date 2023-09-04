@@ -263,7 +263,7 @@
             ul.lista-ul--color.lista-ul--separador.mb-0
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
-                p.mb-0 #[strong Posibilitan]: #[strong a]&#41; Fortalecer las capacidades de los individuos en el ejercicio de la participación social, permitiéndoles ser líderes, auto gestionarse y reconocer su responsabilidad en el logro de la salud y la calidad de vida; #[strong b]&#41; Adquirir mediante IEC (información, educación y comunicación) y hábitos una adecuada nutrición y reducción del sedentarismo; #[strong c]&#41; Integrar todos los entornos, garantizando diferenciación, diversidad y patrones culturales específicos.
+                p.mb-0 #[strong Posibilitan]: #[strong a]&#41; Fortalecer las capacidades de los individuos en el ejercicio de la participación social, permitiéndoles ser líderes, autogestionarse y reconocer su responsabilidad en el logro de la salud y la calidad de vida; #[strong b]&#41; Adquirir mediante IEC (información, educación y comunicación) y hábitos una adecuada nutrición y reducción del sedentarismo; #[strong c]&#41; Integrar todos los entornos, garantizando diferenciación, diversidad y patrones culturales específicos.
               li
                 i.fas.fa-check-circle(style="color: #59BEE2;")
                 p.mb-0 #[strong Facilitan]: #[strong a]&#41; La oferta de infraestructuras, servicios y bienes de salud y sanitarios orientadas al cuidado y al desarrollo sostenible de individuos, familias y comunidad; #[strong b]&#41; El fomento de hábitos nutricionales adecuados y saludables; #[strong c]&#41; Integra todos los entornos.  
