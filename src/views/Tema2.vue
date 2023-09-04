@@ -18,7 +18,7 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/chsjE-XunL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p Una vez realizada la fase diagnóstica, continua el proceso de análisis de actores.
+    p Una vez realizada la fase diagnóstica, continúa el proceso de análisis de actores.
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -58,7 +58,7 @@
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
             .h4 Analizar las acciones
-            p.mb-0 El primer paso de partida es que los diferentes sectores de la mesa deben analizar cuáles acciones son viables social y económicamente brindando la prioridad requerida en su implementación, analizando su costo directo o indirecto y beneficio.
+            p.mb-0 El primer paso, los diferentes sectores de la mesa deben analizar cuáles acciones son viables social y económicamente brindando la prioridad requerida en su implementación analizando su costo directo o indirecto y beneficio.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema2/img04.svg' alt="Imagen decorativa")
         .row.justify-content-center

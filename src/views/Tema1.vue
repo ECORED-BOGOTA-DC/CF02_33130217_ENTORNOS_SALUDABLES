@@ -310,7 +310,7 @@
         .titulo-sexto.color-primario(data-aos="fade-right")
           h5 Tabla 1.
           span Entornos y población sujeto
-        table(data-aos="zoom-in"  alt="Texto alternativo tabla")
+        table(data-aos="zoom-in"  alt="Tabla 1. Componentes de entornos y población sujeto, entorno y problación sujeta.")
           caption Nota. <a style="font-weight: 400">MinSalud (2018).</a>
           thead
             tr
@@ -364,7 +364,7 @@
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.6 Operación de cada entorno
 
-    p.mb-5 Una vez visto el concepto, la clasificación, los escenarios de los entornos, es importante comprender la manera cómo opera cada uno de ellos, en virtud de sus componentes y líneas de acción. Sin embargo, puede describirse la operación de cada uno de ellos, teniendo en cuenta las siguientes variables:
+    p.mb-5 Una vez visto el concepto, la clasificación, los escenarios de los entornos, es importante comprender la manera como opera cada uno de ellos, en virtud de sus componentes y líneas de acción. Sin embargo, puede describirse la operación de cada uno de ellos, teniendo en cuenta las siguientes variables:
 
     .row.justify-content-center.mb-5
       .col-lg-6
@@ -378,7 +378,7 @@
         .titulo-sexto.color-primario(data-aos="fade-right")
           h5 Tabla 2.
           span Componentes de la operación de los entornos
-        table(data-aos="zoom-in"  alt="Texto alternativo tabla")
+        table(data-aos="zoom-in"  alt="Tabla 2. Componentes de la operación de los entornos, entorno, nombre y líneas de acción.")
           caption Nota. <a style="font-weight: 400">MinSalud (2016).</a>
           thead
             tr
@@ -390,103 +390,85 @@
               th(style="border: 2px solid #D3D3D3;").text-center 1
               td(style="border: 2px solid #D3D3D3;") Políticas y normatividad para la promoción del desarrollo humano, la calidad de vida y el desarrollo sostenible.
               td(style="border: 2px solid #D3D3D3;")
-                ol.lista-ol--cuadro
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 1
+                ul.lista-ul--color
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Formulación, implementación, adopción, consolidación, seguimiento y evaluación de políticas. 
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 2
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Armonización y articulación de políticas e instrumentos (nacionales, territoriales, institucionales).
             tr
               th(style="border: 2px solid #D3D3D3;").text-center 2
               td(style="border: 2px solid #D3D3D3;") Ambientes que favorecen el desarrollo humano, la calidad de vida y el desarrollo sostenible.
               td(style="border: 2px solid #D3D3D3;") 
-                ol.lista-ol--cuadro
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 1
+                ul.lista-ul--color
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Implementación y fortalecimiento de estrategias de promoción de espacios físicos, sociales y ambientales seguros, incluyentes, equitativos y sostenibles. 
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 2
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Consolidación y acuerdos intersectoriales para la promoción de entornos saludables. 
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 3
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Coordinación y articulación para la gestión de infraestructuras, bienes y servicios seguros, incluyentes y sostenibles.
             tr
               th(style="border: 2px solid #D3D3D3;").text-center 3
               td(style="border: 2px solid #D3D3D3;") Gestión de servicios sociales, orientados a la respuesta integral e integrada para el desarrollo humano, la calidad de vida y el desarrollo sostenible.
               td(style="border: 2px solid #D3D3D3;")
-                ol.lista-ol--cuadro
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 1
+                ul.lista-ul--color
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Identificación y análisis de necesidades, brechas y potencialidades sociales y de salud para la promoción de entornos saludables. 
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 2
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Gestión para la dinamización de respuestas integrales e integradas. 
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 3
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Fortalecimiento de redes y alianzas estratégicas para dinamización de respuestas integrales. 
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 4
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Fortalecimiento de las entidades territoriales.
             tr
               th(style="border: 2px solid #D3D3D3;").text-center 4
               td(style="border: 2px solid #D3D3D3;") Educación integral e integrada para la promoción del desarrollo humano, la calidad de vida y el desarrollo sostenible.
               td(style="border: 2px solid #D3D3D3;")
-                ol.lista-ol--cuadro
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 1
+                ul.lista-ul--color
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Diseño e implementación de procesos de información y herramientas de educación y comunicación. 
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 2
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Coordinación de acciones sectoriales e intersectoriales orientadas a generar procesos de formación. 
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 3
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Fortalecimiento de capacidades institucionales para el desarrollo de procesos formativos.
             tr
               th(style="border: 2px solid #D3D3D3;").text-center 5
               td(style="border: 2px solid #D3D3D3;") Participación social y comunitaria para el desarrollo humano, la calidad de vida y el desarrollo sostenible.
               td(style="border: 2px solid #D3D3D3;")
-                ol.lista-ol--cuadro
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 1
+                ul.lista-ul--color
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Fortalecimiento de capacidades individuales, colectivas, institucionales para el ejercicio de la ciudadanía.
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 2
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Gestión para el fortalecimiento de la participación social en los 31 espacios y mecanismos establecidos.
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 3
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Conformación y/o fortalecimiento de redes o grupos de gestión para la movilización y el control social.
             tr
               th(style="border: 2px solid #D3D3D3;").text-center 6
               td(style="border: 2px solid #D3D3D3;") Gestión del conocimiento para la promoción del desarrollo humano, la calidad de vida y desarrollo sostenible.
               td(style="border: 2px solid #D3D3D3;")
-                ol.lista-ol--cuadro
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 1
+                ul.lista-ul--color
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Articulación con sectores y actores públicos, privados, académicos, ONG y comunitarios para la difusión, gestión y/o construcción del conocimiento.
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 2
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Sistematización y apropiación de conocimientos enmarcados en los principios de la investigación social.
-                  li 
-                    .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
-                      span 3
+                  li
+                    i.fas.fa-check-circle(style="color: #59BEE2;")
                     | Investigación e innovación social.
 
     .BGIMG02.px-4.mb-4

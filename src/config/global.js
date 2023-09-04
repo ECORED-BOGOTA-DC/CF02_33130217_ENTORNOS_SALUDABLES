@@ -51,7 +51,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Características',
+            titulo: 'Características de los entornos',
             hash: 't_1_3',
           },
           {
@@ -61,7 +61,7 @@ export default {
           },
           {
             numero: '1.5',
-            titulo: 'Escenarios',
+            titulo: 'Escenarios de los diferentes entornos',
             hash: 't_1_5',
           },
           {
